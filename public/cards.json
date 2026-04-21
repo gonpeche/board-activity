@@ -1,0 +1,362 @@
+[
+  {
+    "id": "note_104",
+    "text": "Search results are too broad",
+    "x": 128,
+    "y": 764,
+    "author": "user_3",
+    "color": "blue",
+    "createdAt": "2026-04-20T08:14:22Z"
+  },
+  {
+    "id": "note_215",
+    "text": "Checkout button is hard to find",
+    "x": 907,
+    "y": 143,
+    "author": "user_11",
+    "color": "yellow",
+    "createdAt": "2026-04-20T08:16:40Z"
+  },
+  {
+    "id": "note_389",
+    "text": "The dashboard loads very slowly",
+    "x": 54,
+    "y": 622,
+    "author": "user_2",
+    "color": "green",
+    "createdAt": "2026-04-20T08:19:03Z"
+  },
+  {
+    "id": "note_472",
+    "text": "Error message needs more detail",
+    "x": 333,
+    "y": 455,
+    "author": "user_8",
+    "color": "pink",
+    "createdAt": "2026-04-20T08:21:11Z"
+  },
+  {
+    "id": "note_518",
+    "text": "Navigation menu feels crowded",
+    "x": 781,
+    "y": 912,
+    "author": "user_5",
+    "color": "purple",
+    "createdAt": "2026-04-20T08:24:57Z"
+  },
+  {
+    "id": "note_623",
+    "text": "Login flow is confusing",
+    "x": 412,
+    "y": 891,
+    "author": "user_7",
+    "color": "yellow",
+    "createdAt": "2026-04-20T08:26:15Z"
+  },
+  {
+    "id": "note_734",
+    "text": "Need tooltip for this icon",
+    "x": 219,
+    "y": 308,
+    "author": "user_14",
+    "color": "orange",
+    "createdAt": "2026-04-20T08:28:09Z"
+  },
+  {
+    "id": "note_805",
+    "text": "Font size is too small on mobile",
+    "x": 645,
+    "y": 77,
+    "author": "user_1",
+    "color": "red",
+    "createdAt": "2026-04-20T08:30:34Z"
+  },
+  {
+    "id": "note_916",
+    "text": "The save action should show feedback",
+    "x": 489,
+    "y": 539,
+    "author": "user_9",
+    "color": "teal",
+    "createdAt": "2026-04-20T08:33:02Z"
+  },
+  {
+    "id": "note_102",
+    "text": "Dark mode contrast can be improved",
+    "x": 72,
+    "y": 984,
+    "author": "user_6",
+    "color": "gray",
+    "createdAt": "2026-04-20T08:35:27Z"
+  },
+  {
+    "id": "note_247",
+    "text": "Filters reset unexpectedly",
+    "x": 866,
+    "y": 264,
+    "author": "user_12",
+    "color": "indigo",
+    "createdAt": "2026-04-20T08:37:49Z"
+  },
+  {
+    "id": "note_358",
+    "text": "The modal closes too easily",
+    "x": 154,
+    "y": 431,
+    "author": "user_10",
+    "color": "lime",
+    "createdAt": "2026-04-20T08:40:18Z"
+  },
+  {
+    "id": "note_469",
+    "text": "Profile picture upload fails silently",
+    "x": 998,
+    "y": 501,
+    "author": "user_15",
+    "color": "cyan",
+    "createdAt": "2026-04-20T08:42:55Z"
+  },
+  {
+    "id": "note_570",
+    "text": "Would like keyboard shortcuts here",
+    "x": 287,
+    "y": 690,
+    "author": "user_4",
+    "color": "magenta",
+    "createdAt": "2026-04-20T08:45:12Z"
+  },
+  {
+    "id": "note_681",
+    "text": "Table columns should be resizable",
+    "x": 521,
+    "y": 352,
+    "author": "user_13",
+    "color": "yellow",
+    "createdAt": "2026-04-20T08:47:36Z"
+  },
+  {
+    "id": "note_792",
+    "text": "This page needs a loading skeleton",
+    "x": 410,
+    "y": 118,
+    "author": "user_16",
+    "color": "blue",
+    "createdAt": "2026-04-20T08:50:03Z"
+  },
+  {
+    "id": "note_843",
+    "text": "CTA copy could be clearer",
+    "x": 63,
+    "y": 823,
+    "author": "user_18",
+    "color": "green",
+    "createdAt": "2026-04-20T08:52:24Z"
+  },
+  {
+    "id": "note_954",
+    "text": "Spacing between cards is inconsistent",
+    "x": 734,
+    "y": 576,
+    "author": "user_17",
+    "color": "orange",
+    "createdAt": "2026-04-20T08:54:49Z"
+  },
+  {
+    "id": "note_265",
+    "text": "Pagination should remember page size",
+    "x": 300,
+    "y": 240,
+    "author": "user_20",
+    "color": "purple",
+    "createdAt": "2026-04-20T08:57:11Z"
+  },
+  {
+    "id": "note_376",
+    "text": "Notifications are easy to miss",
+    "x": 951,
+    "y": 667,
+    "author": "user_19",
+    "color": "red",
+    "createdAt": "2026-04-20T08:59:35Z"
+  },
+  {
+    "id": "note_601",
+    "text": "Search placeholder text is unclear",
+    "x": 142,
+    "y": 198,
+    "author": "user_21",
+    "color": "teal",
+    "createdAt": "2026-04-20T09:01:12Z"
+  },
+  {
+    "id": "note_602",
+    "text": "Breadcrumbs would help here",
+    "x": 880,
+    "y": 412,
+    "author": "user_22",
+    "color": "indigo",
+    "createdAt": "2026-04-20T09:03:44Z"
+  },
+  {
+    "id": "note_603",
+    "text": "Image upload takes too long",
+    "x": 305,
+    "y": 901,
+    "author": "user_23",
+    "color": "pink",
+    "createdAt": "2026-04-20T09:05:08Z"
+  },
+  {
+    "id": "note_604",
+    "text": "Form validation errors are easy to skip",
+    "x": 612,
+    "y": 155,
+    "author": "user_24",
+    "color": "lime",
+    "createdAt": "2026-04-20T09:07:31Z"
+  },
+  {
+    "id": "note_605",
+    "text": "Settings page is hard to discover",
+    "x": 44,
+    "y": 512,
+    "author": "user_25",
+    "color": "gray",
+    "createdAt": "2026-04-20T09:09:55Z"
+  },
+  {
+    "id": "note_606",
+    "text": "Export to CSV would be useful",
+    "x": 720,
+    "y": 748,
+    "author": "user_26",
+    "color": "blue",
+    "createdAt": "2026-04-20T09:12:19Z"
+  },
+  {
+    "id": "note_607",
+    "text": "Mobile menu animation feels sluggish",
+    "x": 268,
+    "y": 333,
+    "author": "user_27",
+    "color": "yellow",
+    "createdAt": "2026-04-20T09:14:02Z"
+  },
+  {
+    "id": "note_608",
+    "text": "Tooltips appear too far from the target",
+    "x": 531,
+    "y": 604,
+    "author": "user_28",
+    "color": "purple",
+    "createdAt": "2026-04-20T09:16:40Z"
+  },
+  {
+    "id": "note_609",
+    "text": "Need bulk actions for this list",
+    "x": 915,
+    "y": 820,
+    "author": "user_29",
+    "color": "green",
+    "createdAt": "2026-04-20T09:18:14Z"
+  },
+  {
+    "id": "note_610",
+    "text": "Color coding is not explained anywhere",
+    "x": 377,
+    "y": 444,
+    "author": "user_30",
+    "color": "magenta",
+    "createdAt": "2026-04-20T09:20:48Z"
+  },
+  {
+    "id": "note_611",
+    "text": "Success toast disappears too fast",
+    "x": 801,
+    "y": 291,
+    "author": "user_21",
+    "color": "orange",
+    "createdAt": "2026-04-20T09:22:30Z"
+  },
+  {
+    "id": "note_612",
+    "text": "Drag and drop is not obvious",
+    "x": 96,
+    "y": 677,
+    "author": "user_3",
+    "color": "cyan",
+    "createdAt": "2026-04-20T09:25:11Z"
+  },
+  {
+    "id": "note_613",
+    "text": "Inline editing would save a lot of clicks",
+    "x": 650,
+    "y": 88,
+    "author": "user_5",
+    "color": "purple",
+    "createdAt": "2026-04-20T09:27:45Z"
+  },
+  {
+    "id": "note_614",
+    "text": "Report download link is broken in Safari",
+    "x": 204,
+    "y": 956,
+    "author": "user_8",
+    "color": "red",
+    "createdAt": "2026-04-20T09:30:19Z"
+  },
+  {
+    "id": "note_615",
+    "text": "Empty state illustration feels generic",
+    "x": 558,
+    "y": 201,
+    "author": "user_12",
+    "color": "indigo",
+    "createdAt": "2026-04-20T09:32:03Z"
+  },
+  {
+    "id": "note_616",
+    "text": "Keyboard focus ring is too subtle",
+    "x": 433,
+    "y": 815,
+    "author": "user_14",
+    "color": "teal",
+    "createdAt": "2026-04-20T09:34:28Z"
+  },
+  {
+    "id": "note_617",
+    "text": "Related items section is never relevant",
+    "x": 989,
+    "y": 368,
+    "author": "user_16",
+    "color": "yellow",
+    "createdAt": "2026-04-20T09:36:51Z"
+  },
+  {
+    "id": "note_618",
+    "text": "Autosave would reduce anxiety on long forms",
+    "x": 120,
+    "y": 425,
+    "author": "user_18",
+    "color": "blue",
+    "createdAt": "2026-04-20T09:39:07Z"
+  },
+  {
+    "id": "note_619",
+    "text": "Chart legend overlaps the data on small screens",
+    "x": 746,
+    "y": 512,
+    "author": "user_20",
+    "color": "gray",
+    "createdAt": "2026-04-20T09:41:33Z"
+  },
+  {
+    "id": "note_620",
+    "text": "Add a way to copy link to this board",
+    "x": 361,
+    "y": 99,
+    "author": "user_11",
+    "color": "green",
+    "createdAt": "2026-04-20T09:44:00Z"
+  }
+]
